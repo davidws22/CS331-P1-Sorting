@@ -1,0 +1,15 @@
+Programmer: David Shin
+Date: 2/14/17
+Class: CS 331 Design and Analysis of Algorithms
+Professor: Gilberto Perez
+
+Project 1
+Sorting with Insertion sort, Merge sort, MergeInsertion sort, quick sort, and quickSortRandom.
+
+main.java is hard-coded to test all algorithm with a random element size of 4096 and display to the console screen, the time in nanoseconds one algorithm takes to sort the list.
+SortTest.java can also run on its own and will test all algorithms with a random element size of 4096, and it is aided with the help of JUnit 4.
+	The size of random elements to be tested can be changed to the user's preference. 
+	
+This project has been compressed after cleaning the project and fixing all known errors. 
+Project version: 1
+last updated: 2/14/17
